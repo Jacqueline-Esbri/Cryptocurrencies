@@ -22,7 +22,7 @@ The data was processed to fit the machine learning models. Since there was no kn
 ![3D.PNG](PNGs/3D.png)
 
 - Data classified into 4 groups
-- **Bittorrent** is the clear outlier while the other 3 clusters have relatively clear boundaries
+- **BitTorrent** is the clear outlier while the other 3 clusters have relatively clear boundaries
 
 
 ### Fig.3 & 4
