@@ -1,7 +1,7 @@
 # Cryptocurrencies
 Machine Learning – Unsupervised
 
-![readme2.PNG](PNGs/readme2.png)
+![bitpic.PNG](PNGs/bitpic.png)
 
 ## Overview
 
