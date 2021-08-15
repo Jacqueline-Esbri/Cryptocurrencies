@@ -1,4 +1,4 @@
-# Cryptocurrencie
+# Cryptocurrencies
 ![mod18.PNG](PNGs/mod18.png)
 
 ## Overview
