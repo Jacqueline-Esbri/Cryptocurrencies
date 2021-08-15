@@ -14,7 +14,7 @@ An analysis was created for a hypothetical client who was preparing to get into 
 
 The following steps were also taken:
 
-- Preprocessed the data for PCA
+- Preprocessed the data for PCA (Principal Component Analysis)
 - Reduced data dimensions using PCA
 - Clustered cryptocurrencies using K-means
 - Visualized the results
